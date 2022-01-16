@@ -7,7 +7,7 @@ Human head recognition based on infrared camera(基于红外相机的人类头�
 * nanodet
 * ncnn
 * opencv 4.5.2
-* flir lepton 红外成像模组(160*120),USB连接
+* flir lepton 红外成像模组(分辨率160*120),USB连接
 * windows10
 
 ## result:
