@@ -11,4 +11,4 @@ Human head recognition based on infrared camera(基于红外相机的人类头�
 * windows10
 
 ## result:
-![image]()
+![image](https://github.com/superbayes/Qt_nanodet_ncnn_ir_peopleHead/blob/main/QtProject/ir_peopleHead/irHead_nanodet.gif)
